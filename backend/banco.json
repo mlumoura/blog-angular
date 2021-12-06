@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Luiza",
+      "mensagem": "Esta é minha primeira postagem!"
+    },
+    {
+      "id": 3,
+      "nome": "Alexandre",
+      "mensagem": "Blog legal"
+    },
+    {
+      "id": 4,
+      "nome": "Pedro",
+      "mensagem": "Esta é uma nova postagem!"
+    },
+    {
+      "id": 5,
+      "nome": "Luiza",
+      "mensagem": "Texto novo!"
+    },
+    {
+      "id": 6,
+      "nome": "Luiza",
+      "mensagem": "Este é um teste do POST"
+    },
+    {
+      "id": 7,
+      "nome": "Neyde",
+      "mensagem": "Teste POST"
+    },
+    {
+      "id": 8,
+      "nome": "Helena",
+      "mensagem": "Teste PUT"
+    },
+    {
+      "id": 10,
+      "nome": "Luiza",
+      "mensagem": "Esta postagem foi atualizada!"
+    },
+    {
+      "mensagem": "Teste da gravação pelo form",
+      "nome": "Lu Moura",
+      "id": 11
+    }
+  ]
+}
